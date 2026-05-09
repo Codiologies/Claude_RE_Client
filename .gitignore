@@ -3,3 +3,4 @@ __pycache__/
 *.pyc
 claude_profile/
 last_response.txt
+batch_results.json
